@@ -1,22 +1,30 @@
 
-## Contacts
+## Контакты
 
-**Lecturers**: Polina Polunina, ...
+**Лекции**: Полина Полунина, Елена Кантонистова
 
-**Class Teachers and TAs**
+**Преподаватели и ассистенты**
 
-| Class Teachers | Group| TA (contact)|  
+| Перподаватель | Группа| Ассистент (контакт)|  
 |----------------|------|-------|
-|<name surname>|<group>|<name surname> (tg: @<username>)|
+| Мария Тихонова | BSE221 |  <name surname> (tg: @<username>)|
+| Андрей Петров | BSE222 |  |
+| Иван Горбунов | BSE223 |  |
+| Александр Калашников | BSE224 |  |
+| Андрей Перевозчиков | BSE225 |  |
+| Даниил Бураков | BSE226 |  |
+| Юрий Азин | BSE227 |  |
+| Анастасия Насыхова | BSE228 |  |
+| Егор Степашин | BSE229 |  |
 
-## Grading
-```Final grade = 0.4*HW + 0.1*Sem + 0.3*Exam```
+## Оценка
+```Итог = 0.4*ДЗ + 0.1*Сем + 0.5*Экз```
 
-* `HW` - Average grade for the assignments 1 to 5. 
-* `Sem` - Grade for mini tests and in-class work.
-* `Exam` -  Grade for the exam.
+* `ДЗ` - Средняя оценка за задания с 1 по 5.
+* `Сем` - Оценка за мини-тесты и работы, выполненные на занятиях.
+* `Экз` -  Оценка за экзамен.
 
-## Recommended literature for advanced study
+## Реомендуемая литература
 
 * [Mathematics for Machine learning](https://mml-book.github.io/)
 * [An Introduction to Statistical Learning](https://www.statlearning.com/)
